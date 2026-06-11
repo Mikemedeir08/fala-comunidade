@@ -16,8 +16,8 @@ modelo = joblib.load('modelo_ia.pkl')
 vectorizer = joblib.load('vetorizador.pkl')
 
 st.title("🤖 Fala, Comunidade! 📢")
-st.subheader("Assistente inteligente para suporte a serviços públicos")
-st.write("Estamos aqui para te orientar sobre energia, água e ouvidoria em São José dos Campos.")
+st.subheader("Me conte o que aconteceu")
+st.write("Escreva sua situação abaixo e farei o possível para indicar o melhor caminho")
 
 # Campo de entrada com placeholder amigável
 texto_usuario = st.text_area("Descreva o seu problema abaixo:", placeholder="Ex: estou sem energia na minha rua ou preciso reportar falta de água...", height=100)
