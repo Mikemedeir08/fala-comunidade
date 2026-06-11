@@ -6,3 +6,78 @@ a agua nao esta chegando,problema_saneamento
 quero falar com a ouvidoria,acionar_ouvidoria
 como reclamo na agência,agencia_reguladora
 ola,saudacao_ajuda
+texto,intencao
+to sem luz,problema_energia
+acabou a energia aqui,problema_energia
+a luz caiu,problema_energia
+nao tem energia em casa,problema_energia
+energia eletrica acabou,problema_energia
+meu bairro ta sem luz,problema_energia
+a energia foi embora,problema_energia
+estou sem eletricidade desde cedo,problema_energia
+o poste soltou faisca e acabou a luz,problema_energia
+sem energia na minha rua,problema_energia
+a luz apagou do nada,problema_energia
+nao voltou a energia ainda,problema_energia
+minha casa esta sem luz,problema_energia
+falta de energia,problema_energia
+a energia caiu varias vezes hoje,problema_energia
+
+to sem agua,problema_saneamento
+acabou a agua aqui em casa,problema_saneamento
+nao chega agua na minha torneira,problema_saneamento
+estou sem abastecimento,problema_saneamento
+o esgoto ta entupido,problema_saneamento
+esgoto vazando na rua,problema_saneamento
+tem agua vazando na calcada,problema_saneamento
+o bueiro esta cheio,problema_saneamento
+agua suja saindo da torneira,problema_saneamento
+a rua esta alagada por causa de vazamento,problema_saneamento
+nao cai agua aqui,problema_saneamento
+sem agua desde ontem,problema_saneamento
+esgoto voltando pra casa,problema_saneamento
+cheiro forte de esgoto na rua,problema_saneamento
+vazamento de agua perto da minha casa,problema_saneamento
+
+quero falar com a ouvidoria,acionar_ouvidoria
+como entro em contato com a ouvidoria,acionar_ouvidoria
+preciso reclamar na ouvidoria,acionar_ouvidoria
+nao resolveram meu problema,acionar_ouvidoria
+ja reclamei e nao adiantou,acionar_ouvidoria
+quero fazer uma reclamacao formal,acionar_ouvidoria
+como registrar uma queixa,acionar_ouvidoria
+onde encontro a ouvidoria,acionar_ouvidoria
+preciso abrir uma reclamacao,acionar_ouvidoria
+ninguem resolveu meu caso,acionar_ouvidoria
+ja tenho protocolo e quero recorrer,acionar_ouvidoria
+quero registrar uma manifestacao,acionar_ouvidoria
+o atendimento nao resolveu,acionar_ouvidoria
+quero escalar minha reclamacao,acionar_ouvidoria
+como aciono a ouvidoria municipal,acionar_ouvidoria
+
+como denunciar a empresa,agencia_reguladora
+quero reclamar na aneel,agencia_reguladora
+quero reclamar na arsesp,agencia_reguladora
+a concessionaria nao resolveu,agencia_reguladora
+como denunciar falta de atendimento,agencia_reguladora
+onde reclamo da empresa de energia,agencia_reguladora
+onde reclamo da empresa de agua,agencia_reguladora
+quero acionar o orgao regulador,agencia_reguladora
+a empresa nao responde minhas solicitacoes,agencia_reguladora
+quero fazer denuncia contra a concessionaria,agencia_reguladora
+quem fiscaliza a empresa de energia,agencia_reguladora
+quem fiscaliza a sabesp,agencia_reguladora
+como faco uma denuncia formal,agencia_reguladora
+nao resolveram e quero denunciar,agencia_reguladora
+quero registrar reclamacao no orgao responsavel,agencia_reguladora
+
+oi tudo bem,saudacao_ajuda
+ola preciso de ajuda,saudacao_ajuda
+bom dia preciso de orientacao,saudacao_ajuda
+boa tarde gostaria de ajuda,saudacao_ajuda
+boa noite preciso de informacao,saudacao_ajuda
+alguem pode me ajudar,saudacao_ajuda
+preciso de suporte,saudacao_ajuda
+tenho uma duvida,saudacao_ajuda
+como funciona esse atendimento,saudacao_ajuda
+pode me orientar,saudacao_ajuda
